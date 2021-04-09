@@ -14,7 +14,9 @@
 	},
 	"keywords": [
 		"next",
-		"template"
+		"template",
+        "typescript",
+        "sass"
 	],
 	"author": "James Keseling",
 	"license": "MIT",
