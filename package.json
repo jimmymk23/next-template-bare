@@ -1,6 +1,6 @@
 {
   "name": "nextjs-template-bare",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A bare-bones starter template for Next.js projects",
   "bin": {
     "nextjs-template-bare": "./bin/nextjs-template-bare.js"
