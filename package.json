@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A bare-bones starter template for Next.js projects",
   "bin": {
-    "some-package": "./index.js"
+    "nextjs-template-bare": "./nextjs-template-bare.js"
   },
   "scripts": {
     "dev": "next dev",
