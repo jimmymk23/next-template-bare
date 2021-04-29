@@ -1,7 +1,7 @@
 {
 	"name": "nextjs-starter",
-	"version": "1.0.0",
-	"description": "A starter template for Next.js projects",
+	"version": "0.0.0",
+	"description": "A bare-bones starter template for Next.js projects",
 	"main": "index.js",
 	"scripts": {
 		"dev": "next dev",
