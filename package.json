@@ -1,8 +1,10 @@
 {
-  "name": "nextjs-starter",
+  "name": "nextjs-template-bare",
   "version": "1.0.0",
   "description": "A bare-bones starter template for Next.js projects",
-  "main": "index.js",
+  "bin": {
+    "some-package": "./index.js"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
