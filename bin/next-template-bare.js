@@ -9,7 +9,7 @@ spawnSync('git', ['clone', url, `${process.cwd()}/${appName}`]);
 spawnSync('npm', ['install', '--prefix', `${process.cwd()}/${appName}`]);
 
 console.log(
-	`\n\nYour bare-bones Next.js starter template has been successfully installed!\n\n
-    $ cd ${appName}\n
+	`\n\nYour bare-bones Next.js starter template has been successfully installed!\n
+    $ cd ${appName}
     $ npm start\n\n`
 );
