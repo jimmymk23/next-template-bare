@@ -16,4 +16,4 @@ Get started on projects faster with a bare-bones approach.
     ```Javascript
     npm run dev
     ```
-    to start the development server at `http://localhost:3000/`
+    to start the development server at [http://localhost:3000/](http://localhost:3000/)
