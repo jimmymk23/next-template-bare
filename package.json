@@ -1,6 +1,6 @@
 {
   "name": "next-template-bare",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A bare-bones starter template for Next.js projects",
   "scripts": {
     "dev": "next dev",
